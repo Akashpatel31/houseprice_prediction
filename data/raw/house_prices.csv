@@ -1,0 +1,15 @@
+house_prices.csv is a raw dataset and should contain sample data. Here is an example of what the contents of the file might look like:
+
+Neighborhood,SalePrice,BankAssessment
+Downtown,500000,480000
+Suburb,350000,340000
+Countryside,250000,240000
+Downtown,600000,590000
+Suburb,400000,390000
+Countryside,300000,290000
+Downtown,550000,530000
+Suburb,370000,360000
+Countryside,280000,270000
+Downtown,620000,610000
+Suburb,410000,400000
+Countryside,320000,310000
